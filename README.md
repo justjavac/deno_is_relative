@@ -6,6 +6,8 @@
 
 Whether the filepath is a **relative** file path.
 
+> Base on [jonschlinkert/is-relative](https://github.com/jonschlinkert/is-relative)
+
 ## Usage
 
 ```ts
